@@ -2,6 +2,14 @@
 
 All notable changes to `laravel-filament-chained-translation-manager` will be documented in this file.
 
+## v4.3.0 - 2026-03-23
+
+### What's Changed
+
+* Laravel 13.x Compatibility by @laravel-shift in https://github.com/statikbe/laravel-filament-chained-translation-manager/pull/61
+
+**Full Changelog**: https://github.com/statikbe/laravel-filament-chained-translation-manager/compare/v4.2.2...v4.3.0
+
 ## v4.2.2 - 2026-03-19
 
 ### What's Changed
